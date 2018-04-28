@@ -1,0 +1,19 @@
+{
+  "name": "project2019",
+  "version": "1.0.0",
+  "description": "Theoretically gets you an engineering degree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaifJamilKhan/Project2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaifJamilKhan/Project2019/issues"
+  },
+  "homepage": "https://github.com/SaifJamilKhan/Project2019#readme"
+}
